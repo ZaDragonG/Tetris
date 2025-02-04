@@ -7,7 +7,7 @@
 class Block{
     public:
         Block();
-        void Draw();
+        void Draw(int offestX, int offSetY);
         void Move(int rows, int columns);
         int id;
         std::map<int , std::vector<Position> > cells;
