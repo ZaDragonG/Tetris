@@ -19,4 +19,4 @@ Down Arrow: Accelerate block fall.
 Up Arrow: Rotate the block.
 Esc: Exit the game.
 
-CODE IS IN THE Tetris branch.
+CODE IS IN THE TETRIS BRANCH!
